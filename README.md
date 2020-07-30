@@ -16,3 +16,10 @@ An application made in python for installing pip packages easily.
 
 Python (Tested On 3.8.5),
 Pip
+
+**TO BE DONE**
+Install packages from github repos,
+Install packages from source,
+Make packages from source,
+Install Packages from a requirement text file
+
