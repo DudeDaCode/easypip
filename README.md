@@ -4,7 +4,7 @@
 
 An application made in python for installing pip packages easily.
 
-![alt text](https://i.ibb.co/xzYmF63/Capture2139u0.png)
+![alt text](https://i.ibb.co/BGwwhwJ/Capture12309802139.png)
 
 **USAGE**
 
@@ -22,12 +22,26 @@ Link (Installs From Git, VCS) :
 3) In the textbox enter your package url (For example :- ```https://git.repo/some_pkg.git``` would install the given package)
 4) Click Link
 
-Text (Installs From requirements.txt File) :
+Text (Installs From Text File) :
 
 1) Install All Requirements
 2) Execute the easypip.py File
-3) Make sure your requirements.txt file is in the file's (easypip.py) root directory
+3) Type in the full directory of your text file
 4) Click Text
+
+From Archive (Installs From An Archive) :
+
+1) Install All Requirements
+2) Execute the easypip.py File
+3) Type in the full directory of your archive
+4) Click From Archive
+
+From Source (Installs From Source) :
+
+1) Install All Requirements
+2) Execute the easypip.py File
+3) Type in the full directory of your source folder
+4) Click From Source
 
 
 **REQUIREMENTS**
@@ -37,6 +51,5 @@ Pip
 
 **TO BE DONE**
 
-Install packages from source,
 Make packages from source,
 
