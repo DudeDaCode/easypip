@@ -51,8 +51,8 @@ Upgrade (Upgrade A Package) :
 3) Click Submit
 
 # BUILDING FROM SOURCE
-Step 1 - Clone the Repo
-Step 2 - Modify the program
+Step 1 - Clone the Repo\
+Step 2 - Modify the program\
 Step 3 - Build using pyinstaller ```pyinstaller --onefile --windowed main.py```
 
 # REQUIREMENTS
