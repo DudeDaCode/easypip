@@ -50,6 +50,11 @@ Upgrade (Upgrade A Package) :
 2) Select Upgrade Package 
 3) Click Submit
 
+# BUILDING FROM SOURCE
+Step 1 - Clone the Repo
+Step 2 - Modify the program
+Step 3 - Build using '''pyinstaller pyinstaller --onefile --windowed main.py'''
+
 # REQUIREMENTS
 
 Python (Tested On 3.8.5)\
