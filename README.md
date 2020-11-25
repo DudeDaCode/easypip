@@ -53,7 +53,7 @@ Upgrade (Upgrade A Package) :
 # BUILDING FROM SOURCE
 Step 1 - Clone the Repo
 Step 2 - Modify the program
-Step 3 - Build using '''pyinstaller pyinstaller --onefile --windowed main.py'''
+Step 3 - Build using pyinstaller ```pyinstaller --onefile --windowed main.py```
 
 # REQUIREMENTS
 
