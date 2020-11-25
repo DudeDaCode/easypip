@@ -10,59 +10,53 @@ An application made in python for installing and making pip packages easily.
 
 Install (Installs From Pips Server, Recommended) :
 
-1) Install All Requirements
-2) Execute the easypip.py File
-3) In the textbox type in the name of the required package(s) (For example :- ```discord.py scipy``` would install discord.py and scipy)
-4) Click Install
+1) In the textbox type in the name of the required package(s) (For example :- ```discord.py scipy``` would install discord.py and scipy)
+2) Select Install Package from the drop-down menu
+3) Click Submit
 
-Link (Installs From Git, VCS) :
+Install from VCS (Installs From Git, VCS) :
 
-1) Install All Requirements
-2) Execute the easypip.py File
-3) In the textbox enter your package url (For example :- ```https://git.repo/some_pkg.git``` would install the given package)
-4) Click Link
+1) In the textbox enter your package url (For example :- ```https://git.repo/some_pkg.git``` would install the given package)
+2) Select Install from VCS
+3) Click Submit 
 
-Text (Installs From Text File) :
+Install from Text File (Installs From Text File) :
 
-1) Install All Requirements
-2) Execute the easypip.py File
-3) Type in the full directory of your text file
-4) Click Text
+1) Type in the full directory of your text file
+2) Select the Text option 
+3) Click Submit
 
-From Archive (Installs From An Archive) :
+Install From Archive (Installs From An Archive) :
 
-1) Install All Requirements
-2) Execute the easypip.py File
-3) Type in the full directory of your archive
-4) Click From Archive
+1) Type in the full directory of your archive
+2) Select the Archive option 
+3) Click Submit 
 
-From Source (Installs From Source) :
+Install From Source (Installs From Source) :
 
-1) Install All Requirements
-2) Execute the easypip.py File
-3) Type in the full directory of your source folder
-4) Click From Source
+1) Type in the full directory of your source folder
+2) Seelct the Source option 
+3) Click Submit
 
 
 Make Package (Makes Package From Source) :
 
-1) Install All Requirements
-2) Execute the easypip.py File
-3) Type in the full directory of your packages source folder (the directory containing the setup.py file)
-4) Click Make Package
+1) Type in the full directory of your packages source folder 
+2) Select Make Package Option 
+3) Click Submit
 
 
 Upgrade (Upgrade A Package) :
 
-1) Install All Requirements
-2) Execute the easypip.py File
-3) In the textbox type in the name of the required package(s) (For example :- ```discord.py scipy``` would upgrade discord.py and scipy)
-4) Click Upgrade
+1) In the textbox type in the name of the required package(s) (For example :- ```discord.py scipy``` would upgrade discord.py and scipy)
+2) Select Upgrade Package 
+3) Click Submit
 
 **REQUIREMENTS**
 
 Python (Tested On 3.8.5),
 Pip,
+PySimpleGui,
 Wheel (For Making Packages),
 Setuptools (For Making Packages)
 
