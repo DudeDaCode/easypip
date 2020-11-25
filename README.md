@@ -54,9 +54,9 @@ Upgrade (Upgrade A Package) :
 
 **REQUIREMENTS**
 
-Python (Tested On 3.8.5),
-Pip,
-PySimpleGui,
-Wheel (For Making Packages),
+Python (Tested On 3.8.5)\
+Pip\
+PySimpleGui\
+Wheel (For Making Packages)\
 Setuptools (For Making Packages)
 
