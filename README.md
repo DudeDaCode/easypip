@@ -4,7 +4,7 @@
 
 An application made in python for installing and making pip packages easily.
 
-![alt text](https://i.ibb.co/Q9MQpCg/Screenshot-2.png)
+![alt text](https://i.ibb.co/0V8Q4BH/capture123.png)
 
 **USAGE**
 
