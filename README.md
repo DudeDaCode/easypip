@@ -1,12 +1,10 @@
 # easypip
 
-**DESCRIPTION**
-
 An application made in python for installing and making pip packages easily.
 
 ![alt text](https://i.ibb.co/0V8Q4BH/capture123.png)
 
-**USAGE**
+# USAGE
 
 Install (Installs From Pips Server, Recommended) :
 
@@ -52,7 +50,7 @@ Upgrade (Upgrade A Package) :
 2) Select Upgrade Package 
 3) Click Submit
 
-**REQUIREMENTS**
+# REQUIREMENTS
 
 Python (Tested On 3.8.5)\
 Pip\
